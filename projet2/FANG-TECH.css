@@ -1,0 +1,18 @@
+#navb{
+   font-family: impact;
+}
+
+.montre{
+    background-image: url('https://digitalassets-retail.cdn-apple.com/retail-image-server/091/38d/79a/711/cf7/d24/9e0/d15/296/c8b/f5a936d7-48cc-31de-8d4f-69b099a0b370_Opera_Gallery_04_medium_2x.jpg');
+    width: 1500px;
+    height: 500px;
+}
+.tch{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
